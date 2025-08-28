@@ -1,8 +1,8 @@
 
 # 📘 Estudo e Aplicação de Algoritmos na Programação Estruturada
 
-[![C](https://img.shields.io/badge/Linguagem-C-blue)](https://www.iso-9899.info/)
-\[![Status](https://img.shields.io/badge/Status-Concluido-brightgreen)]
+![C](https://img.shields.io/badge/Linguagem-C-blue)  
+![Status](https://img.shields.io/badge/Status-Concluido-brightgreen)  
 
 **Disciplina:** Algoritmos e Programação Estruturada
 
