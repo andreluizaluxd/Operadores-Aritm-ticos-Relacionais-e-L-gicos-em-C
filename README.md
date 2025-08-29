@@ -196,13 +196,13 @@ Resultados:
 1. Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <[URL_DO_REPOSITORIO](https://github.com/andreluizaluxd/Operadores-Aritm-ticos-Relacionais-e-L-gicos-em-C)>
 ```
 
 2. Navegue até a pasta do projeto:
 
 ```bash
-cd nome-do-repositorio
+cd Operadores-Aritm-ticos-Relacionais-e-L-gicos-em-C
 ```
 
 3. Compile o código em C usando GCC:
