@@ -196,7 +196,7 @@ Resultados:
 1. Clone o repositório:
 
 ```bash
-[https://github.com/andreluizaluxd/Operadores-Aritm-ticos-Relacionais-e-L-gicos-em-C/edit/main/README.md](https://github.com/andreluizaluxd/Operadores-Aritm-ticos-Relacionais-e-L-gicos-em-C/blob/main/README.md)
+https://github.com/andreluizaluxd/Operadores-Aritm-ticos-Relacionais-e-L-gicos-em-C
 ```
 
 2. Navegue até a pasta do projeto:
